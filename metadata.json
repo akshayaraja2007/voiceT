@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoiceTranslator Pro",
+  "description": "High-accuracy voice translation and live captioning web application specializing in English and Tamil speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
